@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from sentence_transformers import SentenceTransformer
 
 class TextEncoder:
@@ -17,14 +18,11 @@ class TextEncoder:
 
 df = pd.read_csv(r'C:\Intrenship\Torhe Indonesia\Food Nutrition Detection\data\processed\Food_Dataset.csv', delimiter='|')
 
-# --- Encoding ---
+# Initialize the TextEncoder and encode the 'name' column
 encoder = TextEncoder()
-embeddings = encoder.encode(df['name'].tolist())  # Kolom teks yang ingin diencode
+embeddings = encoder.encode(df['name'].tolist())
 
-# --- Masukkan ke DataFrame ---
-# Convert tensor to numpy, lalu ke list agar bisa masuk ke DataFrame/JSON/Postgres
-
+# Convert embeddings to a list and add to DataFrame
 df['name embedding'] = [emb.numpy().tolist() for emb in embeddings]
 
-# --- Simpan ke file (opsional) ---
-df.to_json(r'C:\Intrenship\Torhe Indonesia\Food Nutrition Detection\data\processed\Food_Dataset_with_embeddings.json', orient='records', lines=True)
+df.to_json(r'C:\Intrenship\Torhe Indonesia\Food Nutrition Detection\data\processed\Food_embeddings.json', orient='records', lines=True)
