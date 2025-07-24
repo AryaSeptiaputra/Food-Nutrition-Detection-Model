@@ -1,0 +1,1147 @@
+Number|Food Code|Food Name|Group|Type
+1|HR005|Alabio duck egg, fresh|Eggs|Raw
+2|DR037|Ambarella leaves, fresh|Vegetables|Raw
+3|ER074|Ambon banana, fresh|Fruits|Raw
+4|DR072|Ambon cassave leaves, fresh|Vegetables|Raw
+5|DR054|Ambon matel leaves, fresh|Vegetables|Raw
+6|DR050|American black nightshade leaves, fresh|Vegetables|Raw
+7|AP026|Amparan tatak|Cereals|Processed/Products
+8|DR073|Ampenan cassava leaves, fresh|Vegetables|Raw
+9|GP041|Anchovy, dried, raw|Fish and Other Seafood|Processed/Products
+10|GP042|Anchovy, dried, unsalted, raw|Fish and Other Seafood|Processed/Products
+11|GR078|Anchovy, fresh|Fish and Other Seafood|Raw
+12|GP043|Anchovy, ground, raw|Fish and Other Seafood|Processed/Products
+13|GP040|Anchovy, ground, raw|Fish and Other Seafood|Processed/Products
+14|DR003|Andaliman, fresh|Vegetables|Raw
+15|DR058|Angled loofah leaves, fresh|Vegetables|Raw
+16|DR083|Angled loofah, fresh|Vegetables|Raw
+17|ER075|Angleng banana (ampyang banana), fresh|Fruits|Raw
+18|DP023|Anyang, vegetables|Vegetables|Processed/Products
+19|AP027|Apang, steamed, kue|Cereals|Processed/Products
+20|AP028|Apem, kue|Cereals|Processed/Products
+21|ER004|Apple, fresh|Fruits|Raw
+22|DP024|Ares, vegetables|Vegetables|Processed/Products
+23|BP064|Arrowroot, flour|Starchy Roots & Tubers|Processed/Products
+24|BR001|Arrowroot, fresh|Starchy Roots & Tubers|Raw
+25|DP025|Arwan sisir|Vegetables|Processed/Products
+26|NR001|Asam arang coklat, fresh|Herbs and Spices|Raw
+27|NR002|Asam arang merah, fresh|Herbs and Spices|Raw
+28|NR003|Asam gelugur, dried|Herbs and Spices|Raw
+29|NR004|Asam gelugur, fresh|Herbs and Spices|Raw
+30|ER016|Asam paya, fresh|Fruits|Raw
+31|NR006|Asam payak, fresh|Herbs and Spices|Raw
+32|DR006|Ash gourd, fresh|Vegetables|Raw
+33|GR011|Asian swamp eel, fresh|Fish and Other Seafood|Raw
+34|GR044|Athlantic threadfin, fresh|Fish and Other Seafood|Raw
+35|ER001|Avocado, fresh|Fruits|Raw
+36|ER076|Ayam banana, fresh|Fruits|Raw
+37|GP039|Baby anchovies, dried, raw|Fish and Other Seafood|Processed/Products
+38|AR015|Baby corn, yellow, raw|Cereals|Raw
+39|BP013|Bagea, coconut, savory|Starchy Roots & Tubers|Processed/Products
+40|BP014|Bagea, coconut, sweet|Starchy Roots & Tubers|Processed/Products
+41|BP015|Bagea, pili nut, savory|Starchy Roots & Tubers|Processed/Products
+42|BP016|Bagea, pili nut, sweet|Starchy Roots & Tubers|Processed/Products
+43|BP017|Bagea, quality 1|Starchy Roots & Tubers|Processed/Products
+44|BP018|Bagea, quality 2|Starchy Roots & Tubers|Processed/Products
+45|DR055|Bago leaves, fresh|Vegetables|Raw
+46|DR119|Bago rind, fresh|Vegetables|Raw
+47|DR128|Bago, fresh|Vegetables|Raw
+48|GR062|Bagrid catfish, fresh|Fish and Other Seafood|Raw
+49|AP030|Bakpia, kue|Cereals|Processed/Products
+50|AP031|Bakwan|Cereals|Processed/Products
+51|GP093|Balado anchovy, dish|Fish and Other Seafood|Processed/Products
+52|DP060|Balamak pumpkin|Vegetables|Processed/Products
+53|DR026|Bali goseweed leaves, fresh|Vegetables|Raw
+54|GR049|Bali sardinella, fresh|Fish and Other Seafood|Raw
+55|CP003|Bambara groundnut, boiled|Grains and Legumes|Processed/Products
+56|CR005|Bambara groundnut, dried|Grains and Legumes|Raw
+57|CR006|Bambara groundnut, fresh|Grains and Legumes|Raw
+58|CP002|Bambara groundnut, fried|Grains and Legumes|Processed/Products
+59|DR138|Bamboo shoot, fresh|Vegetables|Raw
+60|EP014|Banana flour|Fruits|Processed/Products
+61|DR092|Banana, flower, fresh|Vegetables|Raw
+62|BP046|Bangket, kue|Starchy Roots & Tubers|Processed/Products
+63|GP025|Banjar peda fish, mentah|Fish and Other Seafood|Processed/Products
+64|AP032|Bantal|Cereals|Processed/Products
+65|AR019|Barley, raw|Cereals|Raw
+66|EP001|Barongko|Fruits|Processed/Products
+67|AP033|Baruasa|Cereals|Processed/Products
+68|DR067|Basil leaves, fresh|Vegetables|Raw
+69|AP034|Batar daan|Cereals|Processed/Products
+70|BP003|Batatas tali, tubers, boiled|Starchy Roots & Tubers|Processed/Products
+71|BR003|Batatas, coconut, tubers, fresh|Starchy Roots & Tubers|Raw
+72|BP001|Batatas, coconut, tubers, grilled|Starchy Roots & Tubers|Processed/Products
+73|BP002|Batatas, coconut, tubers, steamed|Starchy Roots & Tubers|Processed/Products
+74|BR002|Batatas, lesser yam, fresh|Starchy Roots & Tubers|Raw
+75|NR017|Bay leaf, ground|Herbs and Spices|Raw
+76|HP005|Bayau mi balu, dish|Eggs|Processed/Products
+77|DR002|Bean sprouts, fresh|Vegetables|Raw
+78|DR148|Bean sprouts, fresh|Vegetables|Raw
+79|DP003|Bean, boiled|Vegetables|Processed/Products
+80|DR013|Bean, fresh|Vegetables|Raw
+81|CP037|Beancurd|Grains and Legumes|Processed/Products
+82|CP038|Beancurd, steamed|Grains and Legumes|Processed/Products
+83|DP026|Beberuk|Vegetables|Processed/Products
+84|FP036|Beef burger|Meat and Poultry|Processed/Products
+85|FP070|Beef leg soup, dish|Meat and Poultry|Processed/Products
+86|FP062|Beef Rendang, dish|Meat and Poultry|Processed/Products
+87|FP069|Beef soup, dish|Meat and Poultry|Processed/Products
+88|FP037|Beef teriyaki, dish|Meat and Poultry|Processed/Products
+89|FP038|Beef yakiniku, dish|Meat and Poultry|Processed/Products
+90|FR028|Beef, black pudding/ blood|Meat and Poultry|Raw
+91|FR032|Beef, brain, fresh|Meat and Poultry|Raw
+92|FR033|Beef, intestine, fresh|Meat and Poultry|Raw
+93|FR029|Beef, kidney, fresh|Meat and Poultry|Raw
+94|FR031|Beef, liver, fresh|Meat and Poultry|Raw
+95|FP017|Beef, liverworst|Meat and Poultry|Processed/Products
+96|FP019|Beef, lung, fried|Meat and Poultry|Processed/Products
+97|FP018|Beef, lung, jerked meat, raw|Meat and Poultry|Processed/Products
+98|FP015|Beef, meat, corned|Meat and Poultry|Processed/Products
+99|FR024|Beef, meat, fat, fresh|Meat and Poultry|Raw
+100|FP014|Beef, meat, jerked meat, raw|Meat and Poultry|Processed/Products
+101|FR025|Beef, meat, laen, fresh|Meat and Poultry|Raw
+102|FR026|Beef, meat, medium fat, fresh|Meat and Poultry|Raw
+103|FP013|Beef, meat, smoked|Meat and Poultry|Processed/Products
+104|FP016|Beef, meat, worst|Meat and Poultry|Processed/Products
+105|FR027|Beef, offal, fresh|Meat and Poultry|Raw
+106|FP011|Beef, shredded|Meat and Poultry|Processed/Products
+107|FP012|Beef, shredded, original|Meat and Poultry|Processed/Products
+108|FR023|Beef, tripe (babat), fresh|Meat and Poultry|Raw
+109|FR030|Beef, tripe, fresh|Meat and Poultry|Raw
+110|DR010|Beets, fresh|Vegetables|Raw
+111|NP003|Bekasang (fermented fish stomach)|Herbs and Spices|Processed/Products
+112|NP011|Belachan|Herbs and Spices|Processed/Products
+113|DR020|Belem leaf, fresh|Vegetables|Raw
+114|BR004|Belitung, taro, fresh|Starchy Roots & Tubers|Raw
+115|BP004|Belitung, taro, steamed|Starchy Roots & Tubers|Processed/Products
+116|DR157|Bengkulu eggplant, fresh|Vegetables|Raw
+117|BR006|Bentul (Komba),  taro, fresh|Starchy Roots & Tubers|Raw
+118|BP005|Bentul, taro, steamed|Starchy Roots & Tubers|Processed/Products
+119|GP055|Betok wadi, dish|Fish and Other Seafood|Processed/Products
+120|GR069|Bicolour eel, fresh|Fish and Other Seafood|Raw
+121|AP035|Bika ambon|Cereals|Processed/Products
+122|AP036|Bingka|Cereals|Processed/Products
+123|FR015|Birds, nests, fresh|Meat and Poultry|Raw
+124|AP029|Biscuits|Cereals|Processed/Products
+125|DR134|Bitter (petai) bean, fresh|Vegetables|Raw
+126|MP002|Bitter chocolate, bar|Convectionery|Processed/Products
+127|DR103|Bitter gourd|Vegetables|Raw
+128|DR064|Bitter melon leaves, fresh|Vegetables|Raw
+129|DR136|Black nighshade leaves, fresh|Vegetables|Raw
+130|DR127|Black nighshade, fresh|Vegetables|Raw
+131|CR015|Black soybean, dried|Grains and Legumes|Raw
+132|CP014|Black-eyed pea, boiled|Grains and Legumes|Processed/Products
+133|CR033|Black-eyed pea, dried|Grains and Legumes|Raw
+134|GP034|Blackbanded trevally, cue, raw|Fish and Other Seafood|Processed/Products
+135|GR067|Blackbanded trevally, fresh|Fish and Other Seafood|Raw
+136|GR003|Blackfin snapper, fresh|Fish and Other Seafood|Raw
+137|GR063|Blue crab, fresh|Fish and Other Seafood|Raw
+138|AP037|Bobengka|Cereals|Processed/Products
+139|DP022|Bogor pickled, vegetables|Vegetables|Processed/Products
+140|AP038|Bolu peca|Cereals|Processed/Products
+141|GP056|Bou ninahu ndamate, dish|Fish and Other Seafood|Processed/Products
+142|GP057|Bouiki ninahu nggaluku, dish|Fish and Other Seafood|Processed/Products
+143|ER055|Brazilian mango, fresh|Fruits|Raw
+144|AP024|Bread, white|Cereals|Processed/Products
+145|EP015|Breadfruit flour|Fruits|Processed/Products
+146|DR106|Breadfruit, fresh|Vegetables|Raw
+147|JR002|Breastmilk|Milk and Dairy Products|Raw
+148|AP039|Brem|Cereals|Processed/Products
+149|FP039|Brongkos|Meat and Poultry|Processed/Products
+150|KR006|Buffalo fat (cow fat)|Fat and Oil|Raw
+151|JR004|Buffalo milk, fresh|Milk and Dairy Products|Raw
+152|FR021|Buffalo, meat, fresh|Meat and Poultry|Raw
+153|FP040|Bulgogi, dish|Meat and Poultry|Processed/Products
+154|AP104|Bun, dark brown skin|Cereals|Processed/Products
+155|KP002|Butter|Fat and Oil|Processed/Products
+156|CR023|Butter nut, dried|Grains and Legumes|Raw
+157|DR044|Cabbage leaves, fresh|Vegetables|Raw
+158|GR024|Caesionidae, fresh|Fish and Other Seafood|Raw
+159|HR002|Caged egg, fresh|Eggs|Raw
+160|HR004|Caged egg, white (albumen), fresh|Eggs|Raw
+161|HR003|Caged egg, yolk, fresh|Eggs|Raw
+162|DR121|Calabash, fresh|Vegetables|Raw
+163|ER038|Calamansi, fresh|Fruits|Raw
+164|DP029|Cammetutu|Vegetables|Processed/Products
+165|NR019|Candlenut|Herbs and Spices|Raw
+166|AP042|Cangkuning|Cereals|Processed/Products
+167|GP049|Canned sardine|Fish and Other Seafood|Processed/Products
+168|DP030|Cap cai, vegetables|Vegetables|Processed/Products
+169|ER103|Caqui, fresh|Fruits|Raw
+170|DP020|Carrot, boiled|Vegetables|Processed/Products
+171|DR166|Carrot, fresh|Vegetables|Raw
+172|DP021|Carrot, steamed|Vegetables|Processed/Products
+173|ER034|Cashew apple, fresh|Fruits|Raw
+174|CR028|Cashew nut, fresh|Grains and Legumes|Raw
+175|CP010|Cashew nut, fried|Grains and Legumes|Processed/Products
+176|DP008|Cassava leaves, boiled|Vegetables|Processed/Products
+177|DR071|Cassava leaves,fresh|Vegetables|Raw
+178|BP025|Cassava, ceriping getuk|Starchy Roots & Tubers|Processed/Products
+179|BP037|Cassava, chips|Starchy Roots & Tubers|Processed/Products
+180|BP038|Cassava, chips, seasoned|Starchy Roots & Tubers|Processed/Products
+181|BR016|Cassava, fresh|Starchy Roots & Tubers|Raw
+182|BP029|Cassava, getuk|Starchy Roots & Tubers|Processed/Products
+183|BP033|Cassava, kecimpring, fried|Starchy Roots & Tubers|Processed/Products
+184|BP066|Cassava, sliced, dried, flour|Starchy Roots & Tubers|Processed/Products
+185|BP008|Cassava, steamed|Starchy Roots & Tubers|Processed/Products
+186|BP063|Cassava, tapai|Starchy Roots & Tubers|Processed/Products
+187|BP024|Cassavastick|Starchy Roots & Tubers|Processed/Products
+188|CR004|Castor bean, fresh|Grains and Legumes|Raw
+189|GP084|Catfish pencok, dish|Fish and Other Seafood|Processed/Products
+190|GR045|Catfish, fresh|Fish and Other Seafood|Raw
+191|GR055|Catfish, fresh|Fish and Other Seafood|Raw
+192|DR113|Cauli flower, fresh|Vegetables|Raw
+193|DR034|Ceara rubber leaves, fresh|Vegetables|Raw
+194|ER057|Cedar bay mango, fresh|Fruits|Raw
+195|DR147|Celery, fresh|Vegetables|Raw
+196|ER021|Cempedak (Artocarpus integer), fresh|Fruits|Raw
+197|DR028|Chasew leaves, unripe, fresh|Vegetables|Raw
+198|DR046|Chayote leaves, fresh|Vegetables|Raw
+199|DR123|Chayote, fresh|Vegetables|Raw
+200|JP003|Cheese|Milk and Dairy Products|Processed/Products
+201|HP001|Chicken egg, omelette, dish|Eggs|Processed/Products
+202|FP041|Chicken teriyaki, dish|Meat and Poultry|Processed/Products
+203|FR006|Chicken, black pudding/blood, fresh|Meat and Poultry|Raw
+204|FP001|Chicken, gizzard, fried|Meat and Poultry|Processed/Products
+205|FP002|Chicken, intestine, fried|Meat and Poultry|Processed/Products
+206|FR007|Chicken, liver, fresh|Meat and Poultry|Raw
+207|FR005|Chicken, meat, fresh|Meat and Poultry|Raw
+208|CR001|Chickpea, dried|Grains and Legumes|Raw
+209|FP042|Chikiniku, dish|Meat and Poultry|Processed/Products
+210|DR032|Chinese Motherwort leaves, fresh|Vegetables|Raw
+211|BR032|Chinese yam|Starchy Roots & Tubers|Raw
+212|BP012|Chinese yam, steamed|Starchy Roots & Tubers|Processed/Products
+213|DR016|Choy sum, fresh|Vegetables|Raw
+214|GR005|Chub mackerel, fresh|Fish and Other Seafood|Raw
+215|FP021|Church's texas fried chicken, breast|Meat and Poultry|Processed/Products
+216|FP022|Church's texas fried chicken, thigh|Meat and Poultry|Processed/Products
+217|FP023|Church's texas fried chicken, wings|Meat and Poultry|Processed/Products
+218|GR039|Clam, fresh|Fish and Other Seafood|Raw
+219|GP045|Clam, jerky, raw|Fish and Other Seafood|Processed/Products
+220|GP044|Clam, smoked, raw|Fish and Other Seafood|Processed/Products
+221|NR016|Clove, dried|Herbs and Spices|Raw
+222|MP004|Cocoa powder|Convectionery|Processed/Products
+223|AP069|Coconut cookie|Cereals|Processed/Products
+224|KP003|Coconut milk (with water)|Fat and Oil|Processed/Products
+225|KR011|Coconut oil|Fat and Oil|Raw
+226|MP006|Coconut palm sugar|Convectionery|Processed/Products
+227|DP054|Coconut umbut soup|Vegetables|Processed/Products
+228|DR164|Coconut umbut, fresh|Vegetables|Raw
+229|CP022|Coconut, bungkil|Grains and Legumes|Processed/Products
+230|ER032|Common guava|Fruits|Raw
+231|DR025|Common purslane leaves, fresh|Vegetables|Raw
+232|ER080|Cooking plantain, fresh|Fruits|Raw
+233|NR020|Coriander, dried|Herbs and Spices|Raw
+234|AP051|Corn gerontol|Cereals|Processed/Products
+235|AP009|Corn rice|Cereals|Processed/Products
+236|AR006|Corn rice, white, dried, raw|Cereals|Raw
+237|AR005|Corn rice, yellow, dried, raw|Cereals|Raw
+238|AP052|Corn titi|Cereals|Processed/Products
+239|AP008|Corn vermicelli, raw|Cereals|Processed/Products
+240|AR017|Corn, shelled, variant harapan, dried|Cereals|Raw
+241|AR018|Corn, shelled, variant metro, dried|Cereals|Raw
+242|AP013|Corn, white, flour|Cereals|Processed/Products
+243|AP011|Corn, yellow, flour|Cereals|Processed/Products
+244|AP012|Corn, yellow, shelled, boiled|Cereals|Processed/Products
+245|AR016|Corn, yellow, shelled, dried, raw|Cereals|Raw
+246|AP010|Corn, young, boiled|Cereals|Processed/Products
+247|AP019|Cornstarch|Cereals|Processed/Products
+248|DR040|Cosmos leaves, fresh|Vegetables|Raw
+249|FP044|Coto mangkasara, beef, dish|Meat and Poultry|Processed/Products
+250|FP043|Coto mangkasara, horse, dish|Meat and Poultry|Processed/Products
+251|JR006|Cow milk, fresh|Milk and Dairy Products|Raw
+252|GR038|Crab, fresh|Fish and Other Seafood|Raw
+253|JR001|Cream, fresh|Milk and Dairy Products|Raw
+254|FP004|Crocodile, meat, jerked meat, raw|Meat and Poultry|Processed/Products
+255|DR110|Cucumber (krai), fresh|Vegetables|Raw
+256|DR109|Cucumber, fresh|Vegetables|Raw
+257|HP006|Cucuru bayau, dish|Eggs|Processed/Products
+258|GR015|Cyprinid fish, fresh|Fish and Other Seafood|Raw
+259|GR032|Cyprinid freshwater fish, fresh|Fish and Other Seafood|Raw
+260|FP010|Deer, meat, jerked meat, raw|Meat and Poultry|Processed/Products
+261|DR069|Dillenia leaves, fresh|Vegetables|Raw
+262|DR093|Djenkol, fresh|Vegetables|Raw
+263|FP045|Djibokum, dish|Meat and Poultry|Processed/Products
+264|NP012|Dobo belachan|Herbs and Spices|Processed/Products
+265|CP023|Dodol (taffy) banjarmasin|Grains and Legumes|Processed/Products
+266|AP043|Dodol bali|Cereals|Processed/Products
+267|AP044|Dodol galamai|Cereals|Processed/Products
+268|AP045|Dodol kedondong|Cereals|Processed/Products
+269|AP046|Dodol manado|Cereals|Processed/Products
+270|HR008|Domestic duck egg, fresh|Eggs|Raw
+271|EP011|Dried banana|Fruits|Processed/Products
+272|EP012|Dried banana, cilacap|Fruits|Processed/Products
+273|MP017|Dried black tea leaves|Convectionery|Processed/Products
+274|MP016|Dried green tea leaves|Convectionery|Processed/Products
+275|MP018|Dried jasmine tea leaves|Convectionery|Processed/Products
+276|EP010|Dried persimmon|Fruits|Processed/Products
+277|NP007|Dried shrimp paste|Herbs and Spices|Processed/Products
+278|GP051|Dried shrimp, raw|Fish and Other Seafood|Processed/Products
+279|FR013|Duck (alabio), meat, fresh|Meat and Poultry|Raw
+280|FP006|Duck (alabio), meat, jerked meat, raw|Meat and Poultry|Processed/Products
+281|HP003|Duck egg, omelette, dish|Eggs|Processed/Products
+282|HP002|Duck egg, salted, raw|Eggs|Processed/Products
+283|HR007|Duck egg, white (albumen), fresh|Eggs|Raw
+284|HR006|Duck egg, yolk, fresh|Eggs|Raw
+285|FR012|Duck, meat, fresh|Meat and Poultry|Raw
+286|FP003|Duck, meat, fried|Meat and Poultry|Processed/Products
+287|ER023|Durian, fresh|Fruits|Raw
+288|DR156|Dutch eggplant, fresh|Vegetables|Raw
+289|AP075|Eclairs|Cereals|Processed/Products
+290|CR016|Edible-podded pea, fresh|Grains and Legumes|Raw
+291|DR102|Edible-podded pea, unripe, fresh|Vegetables|Raw
+292|GP059|Eel jerky, fried|Fish and Other Seafood|Processed/Products
+293|GP002|Eel, fried|Fish and Other Seafood|Processed/Products
+294|GR012|Eel, saltwater, fresh|Fish and Other Seafood|Raw
+295|HP007|Egg kalio, dish|Eggs|Processed/Products
+296|GP082|Egg pempek|Fish and Other Seafood|Processed/Products
+297|CP063|Egg tofu|Grains and Legumes|Processed/Products
+298|DR154|Eggplant, fresh|Vegetables|Raw
+299|AP082|Egyptian martabak|Cereals|Processed/Products
+300|BR024|Elephant foot, yam, fresh|Starchy Roots & Tubers|Raw
+301|BP009|Elephant foot, yam, steamed|Starchy Roots & Tubers|Processed/Products
+302|FP046|Empal (meat), Fried, dish|Meat and Poultry|Processed/Products
+303|CP024|Emping (melinjo chips)|Grains and Legumes|Processed/Products
+304|DR086|Encik mushroom|Vegetables|Raw
+305|DR004|Endive, fresh|Vegetables|Raw
+306|CP026|Enting-enting gepuk, brand hello kity|Grains and Legumes|Processed/Products
+307|CP027|Enting-enting gepuk, peanut|Grains and Legumes|Processed/Products
+308|CP028|Enting-enting, sesame|Grains and Legumes|Processed/Products
+309|GR054|European carp, fresh|Fish and Other Seafood|Raw
+310|GP078|Featherback pempek|Fish and Other Seafood|Processed/Products
+311|NP001|Fermented baby shrimp / Balichong|Herbs and Spices|Processed/Products
+312|NP002|Fermented fish / Bekasam|Herbs and Spices|Processed/Products
+313|DP033|Fern curry|Vegetables|Processed/Products
+314|DR059|Fern leaves, fresh|Vegetables|Raw
+315|AR009|Field rice, raw|Cereals|Raw
+316|GP061|Fillet o-fish|Fish and Other Seafood|Processed/Products
+317|NR009|Fingerroot, fresh|Herbs and Spices|Raw
+318|HP004|Fish egg, salted, raw|Eggs|Processed/Products
+319|KR005|Fish fat|Fat and Oil|Raw
+320|GP065|Fish gulai, dish|Fish and Other Seafood|Processed/Products
+321|KR008|Fish oil|Fat and Oil|Raw
+322|NP006|Fish paste (petis)|Herbs and Spices|Processed/Products
+323|GP038|Fish, ground, raw|Fish and Other Seafood|Processed/Products
+324|GR077|Flying fish, fresh|Fish and Other Seafood|Raw
+325|DR063|Football fruit leaves, fresh|Vegetables|Raw
+326|BP057|Forno sago|Starchy Roots & Tubers|Processed/Products
+327|HR001|Free-range egg, fresh|Eggs|Raw
+328|GP070|Fried pangasius|Fish and Other Seafood|Processed/Products
+329|GP020|Fried tilapia|Fish and Other Seafood|Processed/Products
+330|GR042|Frog, fresh|Fish and Other Seafood|Raw
+331|BR007|Gadeng/Gadung, dried|Starchy Roots & Tubers|Raw
+332|DP031|Gado-gado|Vegetables|Processed/Products
+333|BP035|Gadung, chips|Starchy Roots & Tubers|Processed/Products
+334|BR008|Gadung, yam, fresh|Starchy Roots & Tubers|Raw
+335|BP006|Gadung, yam, steamed|Starchy Roots & Tubers|Processed/Products
+336|NR010|Galangal, fresh|Herbs and Spices|Raw
+337|CR009|Galing nut, fresh|Grains and Legumes|Raw
+338|DR022|Gandiaria leaves, fresh|Vegetables|Raw
+339|BP007|Ganyong, boiled|Starchy Roots & Tubers|Processed/Products
+340|BP065|Ganyong, flour|Starchy Roots & Tubers|Processed/Products
+341|BR009|Ganyong, fresh|Starchy Roots & Tubers|Raw
+342|ER077|Gapi banana, fresh|Fruits|Raw
+343|DR117|Garlic chieves, fresh|Vegetables|Raw
+344|DR118|Garlic chieves, unripe, fresh|Vegetables|Raw
+345|NR008|Garlic, fresh|Herbs and Spices|Raw
+346|DP049|Garu soup|Vegetables|Processed/Products
+347|BP026|Gatot|Starchy Roots & Tubers|Processed/Products
+348|BP027|Geblek|Starchy Roots & Tubers|Processed/Products
+349|ER056|Gedung mango, fresh|Fruits|Raw
+350|AP048|Gemblong|Cereals|Processed/Products
+351|AP049|Gendar, fried|Cereals|Processed/Products
+352|CP029|Geplak|Grains and Legumes|Processed/Products
+353|CP030|Geplak jahe (Ginger taffy)|Grains and Legumes|Processed/Products
+354|EP003|Getuk pisang|Fruits|Processed/Products
+355|BP028|Getuk, fried|Starchy Roots & Tubers|Processed/Products
+356|GR083|Giant freshwater prawn, fresh|Fish and Other Seafood|Raw
+357|GR071|Giant snakehead, fresh|Fish and Other Seafood|Raw
+358|BP069|Giant taro, flour|Starchy Roots & Tubers|Processed/Products
+359|BR023|Giant taro, taro, fresh|Starchy Roots & Tubers|Raw
+360|GR016|Giant trevally, fresh|Fish and Other Seafood|Raw
+361|AP068|Ginger cookie|Cereals|Processed/Products
+362|NR018|Ginger, fresh|Herbs and Spices|Raw
+363|AP107|Glutinous rice srikaya|Cereals|Processed/Products
+364|AP015|Glutinous rice, black, cooked|Cereals|Processed/Products
+365|AR007|Glutinous rice, black, mashed, raw|Cereals|Raw
+366|AP016|Glutinous rice, black, tapai|Cereals|Processed/Products
+367|AP014|Glutinous rice, ketupat|Cereals|Processed/Products
+368|AP079|Glutinous rice, lupis|Cereals|Processed/Products
+369|AP017|Glutinous rice, white, cooked|Cereals|Processed/Products
+370|AR008|Glutinous rice, white, mashed, raw|Cereals|Raw
+371|AP018|Glutinous rice, white, tapai|Cereals|Processed/Products
+372|FP047|Goat curry|Meat and Poultry|Processed/Products
+373|JR003|Goat milk, fresh|Milk and Dairy Products|Raw
+374|FP071|Goat soup, dish|Meat and Poultry|Processed/Products
+375|FR019|Goat, meat, fresh|Meat and Poultry|Raw
+376|GR075|Goldstripe sardinella, fresh|Fish and Other Seafood|Raw
+377|FR004|Goose, meat, fresh|Meat and Poultry|Raw
+378|ER078|Goroho banana, fresh|Fruits|Raw
+379|ER065|Granadilla, fresh|Fruits|Raw
+380|ER027|Granadilla, fresh|Fruits|Raw
+381|ER079|Green Banana,  fresh|Fruits|Raw
+382|NR012|Green chili, fresh|Herbs and Spices|Raw
+383|CR008|Green pea, fresh|Grains and Legumes|Raw
+384|GP015|Green snapper, salted|Fish and Other Seafood|Processed/Products
+385|DR162|Green tomato, fresh|Vegetables|Raw
+386|GP017|Grilled catfish|Fish and Other Seafood|Processed/Products
+387|GP007|Grilled Indonesian featherback|Fish and Other Seafood|Processed/Products
+388|ER031|Guava|Fruits|Raw
+389|DP032|Gudeg, vegetables|Vegetables|Processed/Products
+390|GP063|Gulai asam keueung, dish|Fish and Other Seafood|Processed/Products
+391|GP064|Gulai ikan paya, dish|Fish and Other Seafood|Processed/Products
+392|GP066|Gulai keumamah, dish|Fish and Other Seafood|Processed/Products
+393|BP030|Gurandil|Starchy Roots & Tubers|Processed/Products
+394|FP005|Ham|Meat and Poultry|Processed/Products
+395|JP002|Hangop|Milk and Dairy Products|Processed/Products
+396|GP033|Hara fish, dish|Fish and Other Seafood|Processed/Products
+397|ER058|Harumanis/arumanis mango,fresh|Fruits|Raw
+398|GR008|Hemibagrus catfish, fresh|Fish and Other Seafood|Raw
+399|GP006|Hemibagrus catfish, grilled|Fish and Other Seafood|Processed/Products
+400|GR017|Herring, fresh|Fish and Other Seafood|Raw
+401|GR026|Heu fish, fresh|Fish and Other Seafood|Raw
+402|DR158|Hintaro eggplant, fresh|Vegetables|Raw
+403|BR011|Hofa/wild tuber, fresh|Starchy Roots & Tubers|Raw
+404|MP010|Honey|Convectionery|Processed/Products
+405|JR005|Horse milk, fresh|Milk and Dairy Products|Raw
+406|FR022|Horse, meat, fresh|Meat and Poultry|Raw
+407|CP084|Hunkwe, flour (Mungbean starch)|Grains and Legumes|Processed/Products
+408|DR112|Hyacinth bean|Vegetables|Raw
+409|DR045|Hyacinth bean leaves, fresh|Vegetables|Raw
+410|CR040|Hyacinth bean, andong, dried|Grains and Legumes|Raw
+411|CR041|Hyacinth bean, benguk, seeds, dried|Grains and Legumes|Raw
+412|CP025|Hyacinth bean, emping|Grains and Legumes|Processed/Products
+413|CR020|Hyacinth bean, fresh|Grains and Legumes|Raw
+414|CR042|Hyacinth bean, kerupuk, seeds, fresh|Grains and Legumes|Raw
+415|CR043|Hyacinth bean, loke, seeds, fresh|Grains and Legumes|Raw
+416|CR039|Hyacinth bean, pod, fresh|Grains and Legumes|Raw
+417|CR044|Hyacinth bean, roay, dried|Grains and Legumes|Raw
+418|DR116|Hyacinth bean, seeds, dried|Vegetables|Raw
+419|CR045|Hyacinth bean, wedus, seeds, dried|Grains and Legumes|Raw
+420|ER053|Ice apple, fresh|Fruits|Raw
+421|JP001|Ice cream|Milk and Dairy Products|Processed/Products
+422|GP013|Ikan gete, fried|Fish and Other Seafood|Processed/Products
+423|GP010|Ikan peda, raw|Fish and Other Seafood|Processed/Products
+424|GP028|Ikan pindang benggol, raw|Fish and Other Seafood|Processed/Products
+425|DR021|Indian camphorweed, leaves|Vegetables|Raw
+426|DR029|Indian goosegrass, leaves|Vegetables|Raw
+427|ER010|Indian jujube, fresh|Fruits|Raw
+428|GR048|Indian mackerel, fresh|Fish and Other Seafood|Raw
+429|GR036|Indian mackerel, mackerel, fresh|Fish and Other Seafood|Raw
+430|AP081|Indian martabak|Cereals|Processed/Products
+431|DR056|Indian mulberry leaves, fresh|Vegetables|Raw
+432|DP007|Indian mulberry, steamed|Vegetables|Processed/Products
+433|DR042|Indian mustard leaves, fresh|Vegetables|Raw
+434|ER017|Indian plum, fresh|Fruits|Raw
+435|GR046|Indian scad, fresh|Fish and Other Seafood|Raw
+436|GR010|Indonesian featherback, fresh|Fish and Other Seafood|Raw
+437|DR095|Indonesian kabau, fresh|Vegetables|Raw
+438|ER059|Indramayu mango, fresh|Fruits|Raw
+439|MP009|Instant coffee powder|Convectionery|Processed/Products
+440|CR050|Jackfruit, seeds, fresh|Grains and Legumes|Raw
+441|DR130|Jackfruit, unripe, fresh|Vegetables|Raw
+442|BP022|Jackfruit/snakefruit, seeds|Starchy Roots & Tubers|Processed/Products
+443|CP085|Jalejo, flour|Grains and Legumes|Processed/Products
+444|MP008|Jam|Convectionery|Processed/Products
+445|AR021|Jampang huma, raw|Cereals|Raw
+446|FP048|Jangang bintatoeng, dish|Meat and Poultry|Processed/Products
+447|AP053|Japilus|Cereals|Processed/Products
+448|GR001|Java barb, fresh|Fish and Other Seafood|Raw
+449|ER024|Java plum, fresh|Fruits|Raw
+450|DR030|Jawaw leaf seluang, fresh|Vegetables|Raw
+451|DP057|Jengkol stew|Vegetables|Processed/Products
+452|BR005|Jicama, fresh|Starchy Roots & Tubers|Raw
+453|GP071|Jukku pallu kaloa, dish|Fish and Other Seafood|Processed/Products
+454|BR012|Kaburan, tuber, fresh|Starchy Roots & Tubers|Raw
+455|BP031|Kabuto|Starchy Roots & Tubers|Processed/Products
+456|CP031|Kacang atom|Grains and Legumes|Processed/Products
+457|CP032|Kacang goyang|Grains and Legumes|Processed/Products
+458|CP033|Kacang negara|Grains and Legumes|Processed/Products
+459|CP034|Kacang sukro|Grains and Legumes|Processed/Products
+460|CP035|Kacang tanah sari|Grains and Legumes|Processed/Products
+461|DP035|Kadada katembe|Vegetables|Processed/Products
+462|GP072|Kaholeo, dish|Fish and Other Seafood|Processed/Products
+463|AP054|Kakicak|Cereals|Processed/Products
+464|DR099|Kalakai, fresh|Vegetables|Raw
+465|FP024|Kalasan fried chicken, thigh|Meat and Poultry|Processed/Products
+466|FP052|Kalio brain, dish|Meat and Poultry|Processed/Products
+467|FP049|Kalio chicken, dish|Meat and Poultry|Processed/Products
+468|FP051|Kalio kikil (tunjang), dish|Meat and Poultry|Processed/Products
+469|FP050|Kalio offal, dish|Meat and Poultry|Processed/Products
+470|AP055|Kambose|Cereals|Processed/Products
+471|GR033|Kamera fish, fresh|Fish and Other Seafood|Raw
+472|DP036|Kaparende, vegetables|Vegetables|Processed/Products
+473|BP032|Kapurung|Starchy Roots & Tubers|Processed/Products
+474|AP056|Kapusa|Cereals|Processed/Products
+475|DP037|Karedok, vegetables|Vegetables|Processed/Products
+476|AP057|Keddo bodong|Cereals|Processed/Products
+477|ER095|Keffir lime, fresh|Fruits|Raw
+478|ER009|Kelenting fruit, fresh|Fruits|Raw
+479|AP058|Kelepon, kue|Cereals|Processed/Products
+480|DR039|Kemang leaves, fresh|Vegetables|Raw
+481|ER047|Kemang, fresh|Fruits|Raw
+482|BP041|Kemplang  (fish), chips, raw|Starchy Roots & Tubers|Processed/Products
+483|BP042|Kemplang, chips, fried|Starchy Roots & Tubers|Processed/Products
+484|BP043|Kemplang, chips, roasted|Starchy Roots & Tubers|Processed/Products
+485|FP025|Kentucky fried chicken, breast|Meat and Poultry|Processed/Products
+486|FP026|Kentucky fried chicken, thigh|Meat and Poultry|Processed/Products
+487|FP027|Kentucky fried chicken, wings|Meat and Poultry|Processed/Products
+488|BP034|Keremes|Starchy Roots & Tubers|Processed/Products
+489|AP059|Kereput|Cereals|Processed/Products
+490|BR015|Keribang, tuber, fresh|Starchy Roots & Tubers|Raw
+491|FP007|Kerupuk urat|Meat and Poultry|Processed/Products
+492|ER082|Ketip banana, fresh|Fruits|Raw
+493|AP060|Ketoprak|Cereals|Processed/Products
+494|AP061|Ketupat kandangan|Cereals|Processed/Products
+495|GP016|Keumamah, dried|Fish and Other Seafood|Processed/Products
+496|CR024|Kidney bean (Banda), dried|Grains and Legumes|Raw
+497|CR025|Kidney bean, dark red, dried|Grains and Legumes|Raw
+498|CR026|Kidney bean, dried|Grains and Legumes|Raw
+499|CP008|Kidney bean, dried, boiled|Grains and Legumes|Processed/Products
+500|CR027|Kidney bean, fresh|Grains and Legumes|Raw
+501|CP009|Kidney bean, fresh, boiled|Grains and Legumes|Processed/Products
+502|CR019|Kincai nut, dried|Grains and Legumes|Raw
+503|GR014|Kissing gourami, fresh|Fish and Other Seafood|Raw
+504|NR021|Kluwek|Herbs and Spices|Raw
+505|DP050|Kohu-kohu soup|Vegetables|Processed/Products
+506|FP072|Konro soup, dish|Meat and Poultry|Processed/Products
+507|DR074|Kopang cassava leaves, fresh|Vegetables|Raw
+508|ER060|Kopek mango,fresh|Fruits|Raw
+509|DR115|Koro crackers, pods|Vegetables|Raw
+510|DR043|Koro leaves, fresh|Vegetables|Raw
+511|DP039|Kotiu hinela tawang nggole|Vegetables|Processed/Products
+512|AP062|Koya|Cereals|Processed/Products
+513|AP063|Koya mirasa|Cereals|Processed/Products
+514|AP064|Koyabu|Cereals|Processed/Products
+515|AP065|Kue ali|Cereals|Processed/Products
+516|AP066|Kue bangen|Cereals|Processed/Products
+517|AP067|Kue gelang|Cereals|Processed/Products
+518|AP070|Kue koa|Cereals|Processed/Products
+519|AP071|Kue ku temu|Cereals|Processed/Products
+520|AP072|Kue lumpur|Cereals|Processed/Products
+521|AP073|Kue pelita|Cereals|Processed/Products
+522|AP074|Kue putu cangkir|Cereals|Processed/Products
+523|AP076|Kue thipan|Cereals|Processed/Products
+524|CP046|Kwaci (dried sunflower seeds)|Grains and Legumes|Processed/Products
+525|ER061|Kweni mango, fresh|Fruits|Raw
+526|ER087|Lady finger banana, fresh|Fruits|Raw
+527|AP077|Laksa/Putu mayang|Cereals|Processed/Products
+528|FR018|Lamb, kidney, fresh|Meat and Poultry|Raw
+529|FR016|Lamb, meat, fat, fresh|Meat and Poultry|Raw
+530|FR017|Lamb, meat, lean, fresh|Meat and Poultry|Raw
+531|EP004|Lampung cracker|Fruits|Processed/Products
+532|DP027|Lamtoro wrapped in banana leaves|Vegetables|Processed/Products
+533|ER049|Langsat, fresh|Fruits|Raw
+534|ER051|Langsat, fresh|Fruits|Raw
+535|ER022|Langsat, fresh|Fruits|Raw
+536|DR125|Lantar, fresh|Vegetables|Raw
+537|BP048|Lanting getuk|Starchy Roots & Tubers|Processed/Products
+538|AP078|Lapis legit|Cereals|Processed/Products
+539|GR041|Large saltwater clam, fresh|Fish and Other Seafood|Raw
+540|GR047|Largehead hairtail, fresh|Fish and Other Seafood|Raw
+541|ER088|Latundan banana, fresh|Fruits|Raw
+542|FP055|Lawara jangang, dish|Meat and Poultry|Processed/Products
+543|GP073|Lawara penjah, dish|Fish and Other Seafood|Processed/Products
+544|GR023|Leaf fish, fresh|Fish and Other Seafood|Raw
+545|EP005|Ledre pisang|Fruits|Processed/Products
+546|DR049|Leilem leaves, fresh|Vegetables|Raw
+547|DP040|Lema/ Bamboo shoots sour|Vegetables|Processed/Products
+548|ER052|Lemon, fresh|Fruits|Raw
+549|EP006|Lempog durian|Fruits|Processed/Products
+550|CR021|Lentils, yellow, dried|Grains and Legumes|Raw
+551|GR070|Leopard coral grouper, fresh|Fish and Other Seafood|Raw
+552|GP037|Leopard coral grouper, salted, raw|Fish and Other Seafood|Processed/Products
+553|BR017|Lepok/Nut-grass tuber|Starchy Roots & Tubers|Raw
+554|BR010|Lesser yam, tuber, fresh|Starchy Roots & Tubers|Raw
+555|DP016|Lettuce, boiled|Vegetables|Processed/Products
+556|DR145|Lettuce, fresh|Vegetables|Raw
+557|DR031|Lilac tasselflower leaves, fresh|Vegetables|Raw
+558|DP041|Lilin bungkus gedi|Vegetables|Processed/Products
+559|ER040|Lime, fresh|Fruits|Raw
+560|DR108|Little hogweed, fresh|Vegetables|Raw
+561|EP007|Loka anjoro|Fruits|Processed/Products
+562|DP004|long beans leaves, boiled|Vegetables|Processed/Products
+563|DP019|Long eggpalnt, steamed|Vegetables|Processed/Products
+564|DR159|Long eggplant|Vegetables|Raw
+565|DR060|Longgiho fern leaves, fresh|Vegetables|Raw
+566|ER007|Loquat, fresh|Fruits|Raw
+567|DR001|Lotus root, fresh|Vegetables|Raw
+568|AP020|Macaroni, raw|Cereals|Processed/Products
+569|GR052|Mackerel scad, fresh|Fish and Other Seafood|Raw
+570|GR080|Mackerel tuna, fresh|Fish and Other Seafood|Raw
+571|GR035|Mackerel tuna, fresh|Fish and Other Seafood|Raw
+572|DR111|Madura cucumber, fresh|Vegetables|Raw
+573|DR085|Maize, unripe, fresh|Vegetables|Raw
+574|ER003|Malang apple, fresh|Fruits|Raw
+575|ER033|Malay apple, fresh|Fruits|Raw
+576|GR034|Malay combtail, fresh|Fish and Other Seafood|Raw
+577|HR009|Maleo egg, fresh|Eggs|Raw
+578|ER062|Manalagi mango, fresh|Fruits|Raw
+579|AP080|Manan samin|Cereals|Processed/Products
+580|ER037|Mandarin orange|Fruits|Raw
+581|ER054|Mango, fresh|Fruits|Raw
+582|ER064|Mangosteen, fresh|Fruits|Raw
+583|GR051|Mangrove clam, fresh|Fish and Other Seafood|Raw
+584|ER050|Manila tamarind, fresh|Fruits|Raw
+585|KP001|Margarine|Fat and Oil|Processed/Products
+586|MP011|Markisa squash|Convectionery|Processed/Products
+587|MP012|Markisa squash, BD|Convectionery|Processed/Products
+588|GR002|Maroon clownfish, fresh|Fish and Other Seafood|Raw
+589|ER085|Mas bali ampenan banana, fresh|Fruits|Raw
+590|ER086|Mas bali kopang banana, fresh|Fruits|Raw
+591|AP083|Masekat|Cereals|Processed/Products
+592|ER066|Matoa, fresh|Fruits|Raw
+593|FP028|Mbok Berek Fried chicken, breast|Meat and Poultry|Processed/Products
+594|DR096|Mecca bean, peas, fresh|Vegetables|Raw
+595|CP048|Melinjo, emping, thick, fried, savory|Grains and Legumes|Processed/Products
+596|CP047|Melinjo, emping, thick, fried, sweet|Grains and Legumes|Processed/Products
+597|CP049|Melinjo, emping, thin, fried|Grains and Legumes|Processed/Products
+598|ER067|Melon, fresh|Fruits|Raw
+599|FP008|Menjangan, meat, jerked meat, raw|Meat and Poultry|Processed/Products
+600|ER068|Menteng, fresh|Fruits|Raw
+601|DR017|Mexican mint, fresh|Vegetables|Raw
+602|AP084|Mie aceh, boiled|Cereals|Processed/Products
+603|AP085|Mie ayam|Cereals|Processed/Products
+604|AP086|Mie bakso|Cereals|Processed/Products
+605|AP087|Mie celon|Cereals|Processed/Products
+606|AP088|Mie pangsit, wet|Cereals|Processed/Products
+607|MP003|Milk chocolate, bar|Convectionery|Processed/Products
+608|GR004|Milkfish, fresh|Fish and Other Seafood|Raw
+609|AR020|Millet, raw|Cereals|Raw
+610|AP023|Misua|Cereals|Processed/Products
+611|BP068|Mocaf (Modified cassava flour)|Starchy Roots & Tubers|Processed/Products
+612|GP074|Model, dish|Fish and Other Seafood|Processed/Products
+613|MP013|Molasses|Convectionery|Processed/Products
+614|CP050|Moon tofu|Grains and Legumes|Processed/Products
+615|DR011|Moringa fruit|Vegetables|Raw
+616|DP006|Moringa leaves, boiled|Vegetables|Processed/Products
+617|DR038|Moringa leaves, fresh|Vegetables|Raw
+618|CP005|Mungbean, boiled|Grains and Legumes|Processed/Products
+619|CP015|Mungbean, dregs|Grains and Legumes|Processed/Products
+620|CR014|Mungbean, dried|Grains and Legumes|Raw
+621|CR012|Mungbean, variant bakti, dried|Grains and Legumes|Raw
+622|CR013|Mungbean, variant siwalik, dried|Grains and Legumes|Raw
+623|DR129|Mustard Greens|Vegetables|Raw
+624|DR144|Mustard greens, fresh|Vegetables|Raw
+625|DR141|Mustard greens, fresh|Vegetables|Raw
+626|FP056|Naan maran cow, dish|Meat and Poultry|Processed/Products
+627|DR142|Napa cabbage, fresh|Vegetables|Raw
+628|AP089|Nasi gemuk|Cereals|Processed/Products
+629|AP090|Nasi gurih|Cereals|Processed/Products
+630|AP091|Nasi minyak|Cereals|Processed/Products
+631|AP092|Nasi rames|Cereals|Processed/Products
+632|FP057|Nasu likku, dish|Meat and Poultry|Processed/Products
+633|GR057|Nasu metti fish, fresh|Fish and Other Seafood|Raw
+634|DR057|Ndusuk leaves, fresh|Vegetables|Raw
+635|DP052|Ndusuk soup|Vegetables|Processed/Products
+636|GR029|Neddlefish, fresh|Fish and Other Seafood|Raw
+637|BP050|Noodle, bendo|Starchy Roots & Tubers|Processed/Products
+638|AP022|Noodle, dried|Cereals|Processed/Products
+639|BP049|Noodle, golosor|Starchy Roots & Tubers|Processed/Products
+640|BP051|Noodle, sago|Starchy Roots & Tubers|Processed/Products
+641|AP021|Noodle, wet|Cereals|Processed/Products
+642|AP093|Nopia special|Cereals|Processed/Products
+643|ER072|Nutmeg, meat, fresh|Fruits|Raw
+644|NR024|Nutmeg, seed, dried|Herbs and Spices|Raw
+645|GP087|Octopus saboko, dish|Fish and Other Seafood|Processed/Products
+646|FP077|Offal soto, dish|Meat and Poultry|Processed/Products
+647|DP042|Olah-olah|Vegetables|Processed/Products
+648|KR014|Olive oil|Fat and Oil|Raw
+649|CP051|Oncom|Grains and Legumes|Processed/Products
+650|CP039|Oncom, chips|Grains and Legumes|Processed/Products
+651|CP053|Oncom, mungbean + cassava|Grains and Legumes|Processed/Products
+652|CP052|Oncom, mungbean, dregs|Grains and Legumes|Processed/Products
+653|CP054|Oncom, peanut, pepes|Grains and Legumes|Processed/Products
+654|AP094|Onde-onde|Cereals|Processed/Products
+655|DR007|Onion, fresh|Vegetables|Raw
+656|FP058|Oramu ninahu ndawa olaho, dish|Meat and Poultry|Processed/Products
+657|FP068|Oxtail soup, dish|Meat and Poultry|Processed/Products
+658|BP053|Oyek|Starchy Roots & Tubers|Processed/Products
+659|GP067|Oyster gulai, dish|Fish and Other Seafood|Processed/Products
+660|DR090|Oyster mushroom, fresh|Vegetables|Raw
+661|AP095|Padamaran|Cereals|Processed/Products
+662|DP043|Paku hinela wulelenggapaya|Vegetables|Processed/Products
+663|ER069|Palembang pineapple, fresh|Fruits|Raw
+664|GR058|Paling fish, fresh|Fish and Other Seafood|Raw
+665|KR012|Palm oil|Fat and Oil|Raw
+666|MP005|Palm sugar|Convectionery|Processed/Products
+667|GR060|Pangasius fish, fresh|Fish and Other Seafood|Raw
+668|GP024|Pangasius, grilled|Fish and Other Seafood|Processed/Products
+669|DR094|Panicled Spot Flower|Vegetables|Raw
+670|FP059|Paniki cooked with coconut milk, dish|Meat and Poultry|Processed/Products
+671|DP048|Papaya flower soup|Vegetables|Processed/Products
+672|DR014|Papaya flower, fresh|Vegetables|Raw
+673|DR065|Papaya leaves, fresh|Vegetables|Raw
+674|ER020|Papaya, fresh|Fruits|Raw
+675|ER073|Papaya, fresh|Fruits|Raw
+676|DR133|Papaya, unripe, fresh|Vegetables|Raw
+677|BP054|Papeda|Starchy Roots & Tubers|Processed/Products
+678|GP076|Parede baleh, dish|Fish and Other Seafood|Processed/Products
+679|ER008|Parinari, fresh|Fruits|Raw
+680|GR031|Parrot fish, fresh|Fish and Other Seafood|Raw
+681|DR135|Parsley, fresh|Vegetables|Raw
+682|ER014|Passion fruit, fresh|Fruits|Raw
+683|AP096|Pastel|Cereals|Processed/Products
+684|FP029|Pasundan fried chicken, breast|Meat and Poultry|Processed/Products
+685|FP030|Pasundan fried chicken, thigh|Meat and Poultry|Processed/Products
+686|DR153|Pea eggplants, dried|Vegetables|Raw
+687|DR152|Pea eggplants, fresh|Vegetables|Raw
+688|CP036|Peanut butter|Grains and Legumes|Processed/Products
+689|KR009|Peanut oil|Fat and Oil|Raw
+690|CP013|Peanut, boiled|Grains and Legumes|Processed/Products
+691|CP011|Peanut, boiled, with shells|Grains and Legumes|Processed/Products
+692|CP021|Peanut, bungkil|Grains and Legumes|Processed/Products
+693|CR032|Peanut, dried|Grains and Legumes|Raw
+694|CP012|Peanut, fried|Grains and Legumes|Processed/Products
+695|CR030|Peanut, seeds|Grains and Legumes|Raw
+696|CR031|Peanut, seeds, without husk|Grains and Legumes|Raw
+697|FP060|Pelolah manuk, dish|Meat and Poultry|Processed/Products
+698|GP077|Pempek adaan (fish ball)|Fish and Other Seafood|Processed/Products
+699|GP079|Pempek kapal selam|Fish and Other Seafood|Processed/Products
+700|GP080|Pempek kelesan|Fish and Other Seafood|Processed/Products
+701|FP066|Penyu, serapah, masakan|Meat and Poultry|Processed/Products
+702|GP019|Pepes carp|Fish and Other Seafood|Processed/Products
+703|GP021|pepes tilapia|Fish and Other Seafood|Processed/Products
+704|NR023|Pepper, dried|Herbs and Spices|Raw
+705|ER048|Persimmon, fresh|Fruits|Raw
+706|CP004|Pigeon pea, boiled|Grains and Legumes|Processed/Products
+707|CR034|Pigeon pea, dried|Grains and Legumes|Raw
+708|CR022|Pigeon pea, dried|Grains and Legumes|Raw
+709|CR010|Pigeon pea, seeds, dried|Grains and Legumes|Raw
+710|CR011|Pigeon pea, seeds, fresh|Grains and Legumes|Raw
+711|FP009|Pigeon, meat, fried|Meat and Poultry|Processed/Products
+712|DR066|Pilea leaves, fresh|Vegetables|Raw
+713|CR037|Pili nut (Banda), dried|Grains and Legumes|Raw
+714|CR038|Pili nut, dried|Grains and Legumes|Raw
+715|GP085|Pinda, dish|Fish and Other Seafood|Processed/Products
+716|GP027|Pindang banjar fish, raw|Fish and Other Seafood|Processed/Products
+717|GP030|Pindang blackbanded trevally, raw|Fish and Other Seafood|Processed/Products
+718|GP029|Pindang Indian scad, raw|Fish and Other Seafood|Processed/Products
+719|GP086|Pindang kenari, dish|Fish and Other Seafood|Processed/Products
+720|EP002|Pineapple dodol|Fruits|Processed/Products
+721|ER070|Pineapple, fresh|Fruits|Raw
+722|FP031|Pioneer fried chicken, breast|Meat and Poultry|Processed/Products
+723|MP015|Pirous syrup|Convectionery|Processed/Products
+724|ER089|Plantain, fresh|Fruits|Raw
+725|DP034|Pliek curry|Vegetables|Processed/Products
+726|ER035|Pomelo, fresh|Fruits|Raw
+727|GR061|Pomo fish, fresh|Fish and Other Seafood|Raw
+728|GP026|Ponyfish, raw|Fish and Other Seafood|Processed/Products
+729|KR004|Pork fat (bacon)|Fat and Oil|Raw
+730|KR003|Pork fat (lard)|Fat and Oil|Raw
+731|FP053|Pork Lawar, dish|Meat and Poultry|Processed/Products
+732|FR010|Pork, kidney, fresh|Meat and Poultry|Raw
+733|FR011|Pork, liver, fresh|Meat and Poultry|Raw
+734|FR008|Pork, meat, fat, fresh|Meat and Poultry|Raw
+735|FR009|Pork, meat, lean, fresh|Meat and Poultry|Raw
+736|BP036|Potato, chips|Starchy Roots & Tubers|Processed/Products
+737|BP067|Potato, flour, dried|Starchy Roots & Tubers|Processed/Products
+738|BR013|Potato, fresh|Starchy Roots & Tubers|Raw
+739|BR014|Potato, shetland black, fresh|Starchy Roots & Tubers|Raw
+740|JP006|Powdered milk|Milk and Dairy Products|Processed/Products
+741|GR084|Prawn, fresh|Fish and Other Seafood|Raw
+742|DR019|Premna leaves, fresh|Vegetables|Raw
+743|GP005|Presto milkfish, dish|Fish and Other Seafood|Processed/Products
+744|GR040|Pufferfish, fresh|Fish and Other Seafood|Raw
+745|AP097|Pulut|Cereals|Processed/Products
+746|DR047|Pumpkin leaves, fresh|Vegetables|Raw
+747|DR122|Pumpkin, yellow, fresh|Vegetables|Raw
+748|KP004|Pure coconut milk|Fat and Oil|Processed/Products
+749|DR081|Purple sweet potato leaves, fresh|Vegetables|Raw
+750|BR033|Purple yam, fresh|Starchy Roots & Tubers|Raw
+751|DP045|Purundawa|Vegetables|Processed/Products
+752|FP065|Pusut satay, dish|Meat and Poultry|Processed/Products
+753|AP99|Putri hijau|Cereals|Processed/Products
+754|AP100|Putri selat|Cereals|Processed/Products
+755|BP047|Putu singkong, kue|Starchy Roots & Tubers|Processed/Products
+756|AP101|Putu sopa|Cereals|Processed/Products
+757|HR011|Quail egg, fresh|Eggs|Raw
+758|JP004|Quark|Milk and Dairy Products|Processed/Products
+759|FR020|Rabbit, meat, fresh|Meat and Poultry|Raw
+760|DR051|Radish leaves, fresh|Vegetables|Raw
+761|DR126|Radish, fresh|Vegetables|Raw
+762|ER041|Ragi orange, fresh|Fruits|Raw
+763|ER096|Rambutan binjai, fresh|Fruits|Raw
+764|ER097|Rambutan, fresh|Fruits|Raw
+765|DR098|Ranti peas beans|Vegetables|Raw
+766|BP055|Rasbi (Sweet potato rice)|Starchy Roots & Tubers|Processed/Products
+767|BP056|Rasi (Cassava rice)|Starchy Roots & Tubers|Processed/Products
+768|ER005|Raspberry, fresh|Fruits|Raw
+769|FP087|Rat rica, dish|Meat and Poultry|Processed/Products
+770|DR151|Ratoon sugarcane, fresh|Vegetables|Raw
+771|ER090|Rattan banana, fresh|Fruits|Raw
+772|DP055|Rattan umbut soup|Vegetables|Processed/Products
+773|DR165|Rattan, unripe shoot|Vegetables|Raw
+774|FP061|Rawon, dish|Meat and Poultry|Processed/Products
+775|GR064|Rebon, small shrimp, fresh|Fish and Other Seafood|Raw
+776|GP047|Rebung laut, raw|Fish and Other Seafood|Processed/Products
+777|ER083|Red banana, fresh|Fruits|Raw
+778|NP013|Red belachan|Herbs and Spices|Processed/Products
+779|DR114|Red cabbage, cabbage|Vegetables|Raw
+780|NR011|Red capsicum, fresh|Herbs and Spices|Raw
+781|NR013|Red chili, dried|Herbs and Spices|Raw
+782|NR014|Red chili, fresh|Herbs and Spices|Raw
+783|ER012|Red dragon fruit, fresh|Fruits|Raw
+784|DR012|Red fruit|Vegetables|Raw
+785|GR053|Red mamar fish, fresh|Fish and Other Seafood|Raw
+786|AP005|Red rice|Cereals|Processed/Products
+787|CR051|Red saga, peeled, raw|Grains and Legumes|Raw
+788|GP069|Red smoked fish, dish|Fish and Other Seafood|Processed/Products
+789|DR009|Red spinach, fresh|Vegetables|Raw
+790|DR079|Red sweet potato leaves, fresh|Vegetables|Raw
+791|DP010|Red sweet potato, steamed|Vegetables|Processed/Products
+792|DR161|Red tomato, fresh|Vegetables|Raw
+793|CP056|Rempeyek, with black-eyed pea|Grains and Legumes|Processed/Products
+794|CP055|Rempeyek, with peanut|Grains and Legumes|Processed/Products
+795|CP057|Rempeyek, with ricebean|Grains and Legumes|Processed/Products
+796|AP102|Renggi, fried|Cereals|Processed/Products
+797|EP008|Rica-rica taipa|Fruits|Processed/Products
+798|AP001|Rice|Cereals|Processed/Products
+799|AP050|Rice crust, fried|Cereals|Processed/Products
+800|AP047|Rice emping|Cereals|Processed/Products
+801|AP098|Rice pundut|Cereals|Processed/Products
+802|BP019|"Rice, ""Cerdas"""|Starchy Roots & Tubers|Processed/Products
+803|AR004|Rice, black, raw|Cereals|Raw
+804|AP004|Rice, flour, raw|Cereals|Processed/Products
+805|BP020|Rice, ganyong|Starchy Roots & Tubers|Processed/Products
+806|AR012|Rice, mashed, raw|Cereals|Raw
+807|AR001|Rice, milled, raw|Cereals|Raw
+808|AR002|Rice, milled, variant pelita, raw|Cereals|Raw
+809|AR003|Rice, milled, variant rojolele, raw|Cereals|Raw
+810|AR011|Rice, parboiled|Cereals|Raw
+811|AR013|Rice, red, mashed, raw|Cereals|Raw
+812|BP021|Rice, siger|Starchy Roots & Tubers|Processed/Products
+813|AP002|Rice, steamed|Cereals|Processed/Products
+814|AP003|Rice, tapai|Cereals|Processed/Products
+815|CR035|Ricebean, dried|Grains and Legumes|Raw
+816|CR007|Ricebean, seeds, dried|Grains and Legumes|Raw
+817|ER043|Ripe ambarella, fresh|Fruits|Raw
+818|ER110|Ripe breadfruit, fresh|Fruits|Raw
+819|KR002|Ripe coconut, meat, fresh|Fat and Oil|Raw
+820|ER028|Ripe plum mango|Fruits|Raw
+821|CR047|River tamarind, seeds, old, fresh|Grains and Legumes|Raw
+822|CR046|River tamarind, seeds, young, fresh|Grains and Legumes|Raw
+823|CR048|River tamarind, variant gung, without skin|Grains and Legumes|Raw
+824|CR049|River tamarind, variant local, with skin|Grains and Legumes|Raw
+825|GR027|Rohu fish, fresh|Fish and Other Seafood|Raw
+826|AP103|Roti boong|Cereals|Processed/Products
+827|CP020|Rubber seeds, bungkil|Grains and Legumes|Processed/Products
+828|EP009|Rujak aceh|Fruits|Processed/Products
+829|DP046|Rujak cingur|Vegetables|Processed/Products
+830|ER018|Ruruhi fruit (Syzygium polycephalum Merr), fresh|Fruits|Raw
+831|GP048|Rusip|Fish and Other Seafood|Processed/Products
+832|FP063|RW, dog, dish|Meat and Poultry|Processed/Products
+833|ER081|Saba banana, fresh|Fruits|Raw
+834|GP088|Saboko saltan, dish|Fish and Other Seafood|Processed/Products
+835|FR034|Sago caterpillar, fresh|Meat and Poultry|Raw
+836|FP020|Sago caterpillar, roasted|Meat and Poultry|Processed/Products
+837|DR091|Sago mushroom|Vegetables|Raw
+838|BP023|Sago porridge|Starchy Roots & Tubers|Processed/Products
+839|BR018|Sago, aren, dried|Starchy Roots & Tubers|Raw
+840|BR019|Sago, aren, fresh|Starchy Roots & Tubers|Raw
+841|BR022|Sago, cassava, dried|Starchy Roots & Tubers|Raw
+842|BR020|Sago, kasbi, fresh|Starchy Roots & Tubers|Raw
+843|BR021|Sago, lempeng|Starchy Roots & Tubers|Raw
+844|BP052|Sago, ongol-ongol|Starchy Roots & Tubers|Processed/Products
+845|BP058|Sagu lemak (Kue Sagon)|Starchy Roots & Tubers|Processed/Products
+846|BP060|Sagu rendang|Starchy Roots & Tubers|Processed/Products
+847|ER025|Saipan mango, fresh|Fruits|Raw
+848|ER101|Salak (snake fruit), fresh|Fruits|Raw
+849|ER098|Salak bali, fresh|Fruits|Raw
+850|ER099|Salak medan, fresh|Fruits|Raw
+851|ER100|Salak pondoh, fresh|Fruits|Raw
+852|GR072|Sale fish, fresh|Fish and Other Seafood|Raw
+853|GP004|Salted fish, dried|Fish and Other Seafood|Processed/Products
+854|GP018|Salted lomak, raw|Fish and Other Seafood|Processed/Products
+855|GP009|Salted skipjack tuna, raw|Fish and Other Seafood|Processed/Products
+856|EP013|Sanggara belanda|Fruits|Processed/Products
+857|ER104|Sapodilla, fresh|Fruits|Raw
+858|GP089|Sardine saboko, dish|Fish and Other Seafood|Processed/Products
+859|GR066|Sardine, fresh|Fish and Other Seafood|Raw
+860|AP105|Sarimuka|Cereals|Processed/Products
+861|FP064|Satay, turtle, dish|Meat and Poultry|Processed/Products
+862|FP073|Saudara soup, dish|Meat and Poultry|Processed/Products
+863|DP059|Sauted spinach with coconut milk|Vegetables|Processed/Products
+864|CP058|Sayur lebui|Grains and Legumes|Processed/Products
+865|GP050|Sea cucumber, jerky, raw|Fish and Other Seafood|Processed/Products
+866|DR140|Seaweed|Vegetables|Raw
+867|GP032|Seluang fish, dried, raw|Fish and Other Seafood|Processed/Products
+868|GR007|Seluang fish, fresh|Fish and Other Seafood|Raw
+869|GR065|Seluang fish, fresh|Fish and Other Seafood|Raw
+870|KR001|Semi-ripe coconut, meat, fresh|Fat and Oil|Raw
+871|ER084|Senorita banana, fresh|Fruits|Raw
+872|GP091|Sepi, dish|Fish and Other Seafood|Processed/Products
+873|DR027|Serang goseweed leaves, fresh|Vegetables|Raw
+874|KR013|Sesame oil|Fat and Oil|Raw
+875|CR052|Sesame, raw|Grains and Legumes|Raw
+876|DP056|Shabu-shabu|Vegetables|Processed/Products
+877|NR007|Shallot, fresh|Herbs and Spices|Raw
+878|DR018|Shallot, leaf, fresh|Vegetables|Raw
+879|DR137|Shameplant|Vegetables|Raw
+880|KR007|Shark oil, liver|Fat and Oil|Raw
+881|GP014|Shark, fish, dried|Fish and Other Seafood|Processed/Products
+882|GR028|Shark, fresh|Fish and Other Seafood|Raw
+883|DR053|Shield aralia leaves, fresh|Vegetables|Raw
+884|GP054|Shredded fish|Fish and Other Seafood|Processed/Products
+885|GP053|Shreded snakehead murrel|Fish and Other Seafood|Processed/Products
+886|NP008|Shrimp paste|Herbs and Spices|Processed/Products
+887|BP045|Shrimp, chips, fried|Starchy Roots & Tubers|Processed/Products
+888|FP067|Sie reuboh, dish|Meat and Poultry|Processed/Products
+889|GR009|Silver pomfret, fresh|Fish and Other Seafood|Raw
+890|DR070|Singkil leaves, fresh|Vegetables|Raw
+891|BP061|Sinole sago|Starchy Roots & Tubers|Processed/Products
+892|GP090|Skewered milkfish|Fish and Other Seafood|Processed/Products
+893|JP010|Skimmed milk, fresh|Milk and Dairy Products|Processed/Products
+894|JP009|Skimmed milk, powder|Milk and Dairy Products|Processed/Products
+895|GP081|Skin pempek|Fish and Other Seafood|Processed/Products
+896|GR018|Skipjack tuna, fresh|Fish and Other Seafood|Raw
+897|GR020|Skipjack tuna, heart, fresh|Fish and Other Seafood|Raw
+898|GR019|Skipjack tuna, liver, fresh|Fish and Other Seafood|Raw
+899|GR021|Skipjack tuna, stomach, fresh|Fish and Other Seafood|Raw
+900|AR010|Small broken rice, raw|Cereals|Raw
+901|GP046|Small shrimp (Acetes), dried, raw|Fish and Other Seafood|Processed/Products
+902|GP052|Small shrimp, raw|Fish and Other Seafood|Processed/Products
+903|GP031|Smoked catfish, raw|Fish and Other Seafood|Processed/Products
+904|GP058|Smoked skipjack tuna (papua smoked)|Fish and Other Seafood|Processed/Products
+905|GP008|Smoked skipjack tuna, raw|Fish and Other Seafood|Processed/Products
+906|GP011|Smoked snakehead murrel, raw|Fish and Other Seafood|Processed/Products
+907|GR037|Snail, fresh|Fish and Other Seafood|Raw
+908|GP001|Snail, jerky, raw|Fish and Other Seafood|Processed/Products
+909|DR132|Snake gourd, fresh|Vegetables|Raw
+910|GP012|Snakehead murrel, dried|Fish and Other Seafood|Processed/Products
+911|GR025|Snakehead murrel, fresh|Fish and Other Seafood|Raw
+912|GP036|Snakeskin gourami, dried, raw|Fish and Other Seafood|Processed/Products
+913|GR068|Snakeskin gourami, fresh|Fish and Other Seafood|Raw
+914|GR030|Snapper, fresh|Fish and Other Seafood|Raw
+915|AR014|Sorghum, raw|Cereals|Raw
+916|FP074|Soto bandung, dish|Meat and Poultry|Processed/Products
+917|FP075|Soto banjar, dish|Meat and Poultry|Processed/Products
+918|FP076|Soto betawi, dish|Meat and Poultry|Processed/Products
+919|FP078|Soto kudus, masakan|Meat and Poultry|Processed/Products
+920|FP079|Soto madura, dish|Meat and Poultry|Processed/Products
+921|FP080|Soto padang, dish|Meat and Poultry|Processed/Products
+922|FP081|Soto pekalongan, dish|Meat and Poultry|Processed/Products
+923|FP082|Soto pemalang, dish|Meat and Poultry|Processed/Products
+924|FP083|Soto sukaraja, dish|Meat and Poultry|Processed/Products
+925|FP084|Soto sulung, dish|Meat and Poultry|Processed/Products
+926|DP053|Soup|Vegetables|Processed/Products
+927|DR155|Sour eggplant, fresh|Vegetables|Raw
+928|JP005|Sour milk for baby, powder|Milk and Dairy Products|Processed/Products
+929|DP047|Sour soup|Vegetables|Processed/Products
+930|GP062|Sour soup gete, dish|Fish and Other Seafood|Processed/Products
+931|ER106|Soursop, fresh|Fruits|Raw
+932|ER107|Sowa, fresh|Fruits|Raw
+933|KR010|Soy oil|Fat and Oil|Raw
+934|CP060|Soybean milk|Grains and Legumes|Processed/Products
+935|CP059|Soybean milk, powder|Grains and Legumes|Processed/Products
+936|CP007|Soybean, boiled|Grains and Legumes|Processed/Products
+937|CR017|Soybean, dried|Grains and Legumes|Raw
+938|CP086|Soybean, flour|Grains and Legumes|Processed/Products
+939|CR018|Soybean, fresh|Grains and Legumes|Raw
+940|CP006|Soybean, fried|Grains and Legumes|Processed/Products
+941|AP106|Spaghetti|Cereals|Processed/Products
+942|GP083|Spanish mackerel pempek|Fish and Other Seafood|Processed/Products
+943|DP038|Spinach chips|Vegetables|Processed/Products
+944|DP002|Spinach, boiled|Vegetables|Processed/Products
+945|DR008|Spinach, fresh|Vegetables|Raw
+946|DP001|Spinach, steamed|Vegetables|Processed/Products
+947|GR074|Spiny eel, fresh|Fish and Other Seafood|Raw
+948|GR013|Spotted barb, fresh|Fish and Other Seafood|Raw
+949|GR079|Spotted scat, fresh|Fish and Other Seafood|Raw
+950|DR150|Sprouts of blackeyed pea, fresh|Vegetables|Raw
+951|DR149|Sprouts of soybean, fresh|Vegetables|Raw
+952|DP018|Sprouts, brewed|Vegetables|Processed/Products
+953|DP017|Sprouts, fried|Vegetables|Processed/Products
+954|DR124|Squash, fresh|Vegetables|Raw
+955|BP040|Squid, chips, fried|Starchy Roots & Tubers|Processed/Products
+956|GR022|Squid, fresh|Fish and Other Seafood|Raw
+957|GP003|Squid, fried|Fish and Other Seafood|Processed/Products
+958|ER102|Star apple, fresh|Fruits|Raw
+959|ER006|Starfruit, fresh|Fruits|Raw
+960|GP095|Stir-fried keumamah|Fish and Other Seafood|Processed/Products
+961|GP094|Stir-fried milkfish|Fish and Other Seafood|Processed/Products
+962|DR089|Straw mushroom, fresh|Vegetables|Raw
+963|GR006|Streaked spinefoot, fresh|Fish and Other Seafood|Raw
+964|ER108|Sugar apple, fresh|Fruits|Raw
+965|FP032|Sukabumi fried chicken, breast|Meat and Poultry|Processed/Products
+966|FP033|Sukabumi fried chicken, thigh|Meat and Poultry|Processed/Products
+967|FP085|Sukiyaki, dish|Meat and Poultry|Processed/Products
+968|AP108|Sunduk lawang|Cereals|Processed/Products
+969|DR023|Sunset hibiscus, big, fresh|Vegetables|Raw
+970|DR024|Sunset hibiscus, small, fresh|Vegetables|Raw
+971|AP109|Suwir-suwir|Cereals|Processed/Products
+972|MP001|Sweet chocolate, bar|Convectionery|Processed/Products
+973|DP005|Sweet leaves, boiled|Vegetables|Processed/Products
+974|DR035|Sweet leaves, fresh|Vegetables|Raw
+975|ER039|Sweet orange, fresh|Fruits|Raw
+976|BP039|Sweet potato, chips|Starchy Roots & Tubers|Processed/Products
+977|BP075|Sweet potato, Cilembu|Starchy Roots & Tubers|Processed/Products
+978|BR029|Sweet potato, fresh|Starchy Roots & Tubers|Raw
+979|BP072|Sweet potato, purple, flour|Starchy Roots & Tubers|Processed/Products
+980|BR030|Sweet potato, red, fresh|Starchy Roots & Tubers|Raw
+981|BR031|Sweet potato, white, fresh|Starchy Roots & Tubers|Raw
+982|BR028|Sweet potato, yellow, fresh|Starchy Roots & Tubers|Raw
+983|BP011|Sweet potato, yellow, steamed|Starchy Roots & Tubers|Processed/Products
+984|BP059|Sweet sago|Starchy Roots & Tubers|Processed/Products
+985|GP068|Sweet sour gourami, dish|Fish and Other Seafood|Processed/Products
+986|NP005|Sweet soy sauce|Herbs and Spices|Processed/Products
+987|JP007|Sweetened condensed milk|Milk and Dairy Products|Processed/Products
+988|MP014|Syrup|Convectionery|Processed/Products
+989|NR015|Tabasco pepper, fresh|Herbs and Spices|Raw
+990|ER029|Tahitian chestnut, fresh|Fruits|Raw
+991|DR143|Taiwan mustard greens, fresh|Vegetables|Raw
+992|CP064|Takwa|Grains and Legumes|Processed/Products
+993|FP034|Taliwang chicken, dish|Meat and Poultry|Processed/Products
+994|ER026|Tamarillo, fresh|Fruits|Raw
+995|ER036|Tangerine, fresh|Fruits|Raw
+996|AP041|Tapai cake|Cereals|Processed/Products
+997|BP070|Tapioca, flour|Starchy Roots & Tubers|Processed/Products
+998|GR073|Tarmon fish, fresh|Fish and Other Seafood|Raw
+999|ER091|Taro banana, fresh|Fruits|Raw
+1000|BP071|Taro Beneng, flour|Starchy Roots & Tubers|Processed/Products
+1001|DP009|Taro leaves, boiled|Vegetables|Processed/Products
+1002|DR052|Taro leaves, fresh|Vegetables|Raw
+1003|DR076|Taro leaves, fresh|Vegetables|Raw
+1004|DP028|Taro wrapped in banana leaves|Vegetables|Processed/Products
+1005|BR025|Taro, fresh|Starchy Roots & Tubers|Raw
+1006|BR026|Taro, Pontianak, fresh|Starchy Roots & Tubers|Raw
+1007|BP062|Taro, serimping, from Kebumen|Starchy Roots & Tubers|Processed/Products
+1008|BP010|Taro, steamed|Starchy Roots & Tubers|Processed/Products
+1009|BR027|Taro, viqueque, fresh|Starchy Roots & Tubers|Raw
+1010|CP065|Tauco|Grains and Legumes|Processed/Products
+1011|CP066|Tauco, brand beruang, cake|Grains and Legumes|Processed/Products
+1012|CP067|Tauco, brand DAS, cake|Grains and Legumes|Processed/Products
+1013|CP068|Tauco, brand meong|Grains and Legumes|Processed/Products
+1014|CP069|Tauji, brand singa|Grains and Legumes|Processed/Products
+1015|FP086|Tedong pallu basa, dish|Meat and Poultry|Processed/Products
+1016|GP092|Tekwan|Fish and Other Seafood|Processed/Products
+1017|CP070|Tempeh bongkrek|Grains and Legumes|Processed/Products
+1018|CP071|Tempeh gembus P3G|Grains and Legumes|Processed/Products
+1019|CP072|Tempeh gembus yogya|Grains and Legumes|Processed/Products
+1020|CP040|Tempeh, chips|Grains and Legumes|Processed/Products
+1021|CP041|Tempeh, chips, brand abadi, large size|Grains and Legumes|Processed/Products
+1022|CP043|Tempeh, chips, brand abadi, medium size|Grains and Legumes|Processed/Products
+1023|CP042|Tempeh, chips, brand abadi, original|Grains and Legumes|Processed/Products
+1024|CP045|Tempeh, chips, brand abadi, prime quality|Grains and Legumes|Processed/Products
+1025|CP044|Tempeh, chips, brand abadi, with egg|Grains and Legumes|Processed/Products
+1026|CP078|Tempeh, hyacinth bean, benguk|Grains and Legumes|Processed/Products
+1027|CP076|Tempeh, pure soybean, fried|Grains and Legumes|Processed/Products
+1028|CP077|Tempeh, pure soybean, uncooked|Grains and Legumes|Processed/Products
+1029|CP079|Tempeh, river tamarind|Grains and Legumes|Processed/Products
+1030|CP080|Tempeh, river tamarind, variant gung with skin|Grains and Legumes|Processed/Products
+1031|CP081|Tempeh, river tamarind, variant gung without skin|Grains and Legumes|Processed/Products
+1032|CP082|Tempeh, sold in market|Grains and Legumes|Processed/Products
+1033|CP083|Tempeh, sold in market, fried|Grains and Legumes|Processed/Products
+1034|CP075|Tempeh, soybean + corn|Grains and Legumes|Processed/Products
+1035|CP073|Tempeh, velvet bean|Grains and Legumes|Processed/Products
+1036|CP074|Tempeh, winged bean|Grains and Legumes|Processed/Products
+1037|NP010|Tempoya|Herbs and Spices|Processed/Products
+1038|DP051|Terubuk candle soup|Vegetables|Processed/Products
+1039|GR059|The climbing perch, fresh|Fish and Other Seafood|Raw
+1040|GP023|The climbing perch, grilled|Fish and Other Seafood|Processed/Products
+1041|GR082|Tiger prawn, giant, fresh|Fish and Other Seafood|Raw
+1042|GP060|Tilapia jerky, fried|Fish and Other Seafood|Processed/Products
+1043|GR056|Tilapia, fresh|Fish and Other Seafood|Raw
+1044|GP022|Tilapia, jerky, raw|Fish and Other Seafood|Processed/Products
+1045|DP058|Tinira ninahu nggaluku|Vegetables|Processed/Products
+1046|FP088|Tinoransa, dish|Meat and Poultry|Processed/Products
+1047|AP040|Tinotuan porridge (Manado)|Cereals|Processed/Products
+1048|AP110|Tipa-tipa|Cereals|Processed/Products
+1049|BP073|Tiwul|Starchy Roots & Tubers|Processed/Products
+1050|BP074|Tiwul, instant|Starchy Roots & Tubers|Processed/Products
+1051|CP018|Tofu, dregs, dried|Grains and Legumes|Processed/Products
+1052|CP019|Tofu, dregs, oncom pepes|Grains and Legumes|Processed/Products
+1053|CP016|Tofu, dregs, raw|Grains and Legumes|Processed/Products
+1054|CP017|Tofu, dregs, steamed|Grains and Legumes|Processed/Products
+1055|CP062|Tofu, fried|Grains and Legumes|Processed/Products
+1056|CP061|Tofu, uncooked|Grains and Legumes|Processed/Products
+1057|NP009|Tomato sauce|Herbs and Spices|Processed/Products
+1058|DR160|Tomato, juice, fresh|Vegetables|Raw
+1059|DR101|Tondano water spinach|Vegetables|Raw
+1060|GR050|Tonguefish, fresh|Fish and Other Seafood|Raw
+1061|DR105|Torch ginger, fresh|Vegetables|Raw
+1062|ER071|Tree-ripe jackfruit, fresh|Fruits|Raw
+1063|NR005|Tree-ripe tamarind, fresh|Herbs and Spices|Raw
+1064|DR075|Tropical burnweed leaves, fresh|Vegetables|Raw
+1065|ER092|Tujuh bulan banana|Fruits|Raw
+1066|ER019|Tuppa fruit, fresh|Fruits|Raw
+1067|GR081|Turi fish, fresh|Fish and Other Seafood|Raw
+1068|DR139|Turkey berry, fresh|Vegetables|Raw
+1069|NR022|Turmeric, fresh|Herbs and Spices|Raw
+1070|HR010|Turtle egg, fresh|Eggs|Raw
+1071|FP054|Turtle Lawar, dish|Meat and Poultry|Processed/Products
+1072|GR043|Turtle, fresh|Fish and Other Seafood|Raw
+1073|ER093|Ua banana, fresh|Fruits|Raw
+1074|DR163|Uceng/ bago flower, fresh|Vegetables|Raw
+1075|ER094|Uli banana, fresh|Fruits|Raw
+1076|BP076|Uli batatas|Starchy Roots & Tubers|Processed/Products
+1077|ER044|Unripe ambarella, fresh|Fruits|Raw
+1078|ER109|Unripe breadfruit, fresh|Fruits|Raw
+1079|ER063|Unripe mango, fresh|Fruits|Raw
+1080|JP008|Unsweetened condensed milk|Milk and Dairy Products|Processed/Products
+1081|CR036|Urei nut, dried|Grains and Legumes|Raw
+1082|FR001|Veal, meat, fat, fresh|Meat and Poultry|Raw
+1083|FR002|Veal, meat, lean, fresh|Meat and Poultry|Raw
+1084|FR003|Veal, meat, medium fat, fresh|Meat and Poultry|Raw
+1085|DR062|Vegetable fern, fresh|Vegetables|Raw
+1086|DR015|Vegetable-hummingbird flower, fresh|Vegetables|Raw
+1087|DR107|Vegetable-hummingbird flower, fresh|Vegetables|Raw
+1088|ER011|Velvet apple, fresh|Fruits|Raw
+1089|CR002|Velvet bean, dried|Grains and Legumes|Raw
+1090|AP007|Vermicelli, fried, instant|Cereals|Processed/Products
+1091|AP006|Vermicelli, raw|Cereals|Processed/Products
+1092|DR041|Vietnamese coriander leaves, fresh|Vegetables|Raw
+1093|ER111|Vigus, fresh|Fruits|Raw
+1094|NP004|Vinegar|Herbs and Spices|Processed/Products
+1095|AP111|Wajit, kue|Cereals|Processed/Products
+1096|GR076|Wallago catfish, segar|Fish and Other Seafood|Raw
+1097|DR061|Wambateu fern leaves, fresh|Vegetables|Raw
+1098|ER112|Wani, fresh|Fruits|Raw
+1099|ER030|Water apple, fresh|Fruits|Raw
+1100|DR077|Water celery leaves, fresh|Vegetables|Raw
+1101|DR068|Water clover leaves, fresh|Vegetables|Raw
+1102|DR082|Water hyacinth, fresh|Vegetables|Raw
+1103|DR100|Water spinach|Vegetables|Raw
+1104|DP044|Water spinach pelecing|Vegetables|Processed/Products
+1105|DP014|Water spinach, boiled|Vegetables|Processed/Products
+1106|DP013|Water spinach, steamed|Vegetables|Processed/Products
+1107|DR146|Watercress, fresh|Vegetables|Raw
+1108|ER105|Watermelon, fresh|Fruits|Raw
+1109|DR120|Wax gourd, fresh|Vegetables|Raw
+1110|DR005|Welsh onion, fresh|Vegetables|Raw
+1111|AP025|Wheat, flour|Cereals|Processed/Products
+1112|FR014|Whistling duck, meat, fresh|Meat and Poultry|Raw
+1113|DR131|White bitter melon, fresh|Vegetables|Raw
+1114|DP015|White bitter melon, steamed|Vegetables|Processed/Products
+1115|ER013|White dragon fruit, fresh|Fruits|Raw
+1116|DR048|White leadtree leaves, fresh|Vegetables|Raw
+1117|MP007|White sugar|Convectionery|Processed/Products
+1118|DR080|White sweet potato leaves, fresh|Vegetables|Raw
+1119|AP112|Widaran|Cereals|Processed/Products
+1120|FP035|Wild boar rica, dish|Meat and Poultry|Processed/Products
+1121|ER002|Wild grape, fresh|Fruits|Raw
+1122|ER015|Wild sweetsop, fresh|Fruits|Raw
+1123|CP001|Winged bean, boiled|Grains and Legumes|Processed/Products
+1124|CR003|Winged bean, dried|Grains and Legumes|Raw
+1125|DR036|Winged bean, fresh|Vegetables|Raw
+1126|DR104|Winged bean, unripe, fresh|Vegetables|Raw
+1127|AP113|Wingko babat|Cereals|Processed/Products
+1128|DP061|Woku sweet potato|Vegetables|Processed/Products
+1129|ER042|Wood apple, fresh|Fruits|Raw
+1130|DR087|Wood ear, dried|Vegetables|Raw
+1131|DR088|Wood ear, fresh|Vegetables|Raw
+1132|ER045|Woromo, dried|Fruits|Raw
+1133|AP114|Yangko|Cereals|Processed/Products
+1134|DR097|Yardlong bean, fresh|Vegetables|Raw
+1135|CR029|Yardlong bean, seeds, dried|Grains and Legumes|Raw
+1136|DR033|Yardlong beans leaves, fresh|Vegetables|Raw
+1137|DP012|Yardlong beans, boiled|Vegetables|Processed/Products
+1138|DP011|Yardlong beans, steamed|Vegetables|Processed/Products
+1139|DR084|Yellow bur head, fresh|Vegetables|Raw
+1140|GP075|Yellow pickled tilapia, dish|Fish and Other Seafood|Processed/Products
+1141|DR078|Yellow sweet potato leaves, fresh|Vegetables|Raw
+1142|BP044|Yellow, noodle, chips, fried|Starchy Roots & Tubers|Processed/Products
+1143|GP035|Yellowstripe scad, dried, raw|Fish and Other Seafood|Processed/Products
+1144|JP011|Yoghurt, fresh|Milk and Dairy Products|Processed/Products
+1145|ER046|Young coconut, meat, fresh|Fruits|Raw
+1146|PR001|Young coconut, water, fresh|Non-Alcoholic Beverages|Raw
