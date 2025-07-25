@@ -23,6 +23,8 @@ encoder = TextEncoder()
 embeddings = encoder.encode(df['name'].tolist())
 
 # Convert embeddings to a list and add to DataFrame
-df['name embedding'] = [emb.numpy().tolist() for emb in embeddings]
+df['name_embedding'] = [emb.numpy().tolist() for emb in embeddings]
+
+df = df[['code','Text', 'name_embedding']]
 
 df.to_json(r'C:\Intrenship\Torhe Indonesia\Food Nutrition Detection\data\processed\Food_embeddings.json', orient='records', indent=2)
