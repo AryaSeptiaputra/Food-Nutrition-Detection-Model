@@ -1,29 +1,16 @@
-from langchain_chroma import Chroma
+from langchain_community.vectorstores import Chroma
 
 class ConfigDB:
-    def __init__(self, texts, embeddings, persist_directory="src/db/chroma_db"):
-        """
-        Create and automatically persist a Chroma vector store.
-
-        :param texts: List of texts to store (e.g., food names)
-        :param embeddings: List of embeddings corresponding to the texts
-        :param persist_directory: Path to directory where Chroma DB will be saved
-        """
-        self.vectorstore = Chroma(
-            collection_name="food_embeddings",
-            embedding_function=None, 
-            persist_directory=persist_directory
+    def __init__(self, collection_name="knowledge_food", persist_dir="./src/db/food_knowledge_english", embedding_function=None):
+        self.db = Chroma(
+            collection_name=collection_name,
+            embedding_function=embedding_function,
+            persist_directory=persist_dir
         )
 
-        # Add data to Chroma with manual embedding input
-        self.vectorstore._collection.add(
-            documents=texts,
-            embeddings=embeddings,
-            ids=[str(i) for i in range(len(texts))]
-        )
+    def get_db(self):
+        return self.db
 
-    def get_vectorstore(self):
-        """
-        Returns the vectorstore instance.
-        """
-        return self.vectorstore
+    def add_documents(self, documents):
+        self.db.add_documents(documents)
+
