@@ -1,44 +1,31 @@
 import os
-from dotenv import load_dotenv
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
-
-load_dotenv()  # Load .env
+from llama_cpp import Llama
 
 class LanguageModel:
     def __init__(self):
-        model_id = "meta-llama/Llama-3.1-70B-Instruct"
+        # Path ke model .gguf
+        with open("config.txt", "r") as f:
+            model_path = f.read().strip()
 
-        access_token = os.getenv("HF_TOKEN")
-        if access_token is None:
-            raise EnvironmentError("Hugging Face token tidak ditemukan di environment variable 'HF_TOKEN'.")
+        if not os.path.exists(model_path):
+            raise FileNotFoundError(f"Model tidak ditemukan di: {model_path}")
 
-        # Load tokenizer & model
-        self.tokenizer = AutoTokenizer.from_pretrained(model_id, token=access_token, use_fast=True)
-        self.model = AutoModelForCausalLM.from_pretrained(
-            model_id,
-            token=access_token,
-            device_map="auto",
-            torch_dtype="auto"  # Bisa diubah ke torch.float16 jika perlu
+        # Inisialisasi model
+        self.model = Llama(
+            model_path=model_path,
+            n_ctx=4096,            # Panjang konteks
+            n_threads=16,          # Jumlah thread CPU
+            n_gpu_layers=4         # Gunakan 0 jika hanya ingin CPU
         )
 
-        # Build huggingface pipeline
-        self.pipe = pipeline(
-            "text-generation",
-            model=self.model,
-            tokenizer=self.tokenizer,
-            max_new_tokens=512,
-            do_sample=True,
+    def generate(self, user_prompt: str, sistem: str) -> str:
+        response = self.model.create_chat_completion(
+            messages=[
+                {"role": "system", "content": sistem},
+                {"role": "user", "content": user_prompt}
+            ],
+            max_tokens=512,
             temperature=0.7,
             top_p=0.95,
-            repetition_penalty=1.1,
-            eos_token_id=self.tokenizer.eos_token_id,
-            pad_token_id=self.tokenizer.eos_token_id  # Hindari warning jika model tidak punya pad token
         )
-
-    def format_prompt(self, user_prompt: str):
-        return f"<|begin_of_text|><|user|>\n{user_prompt}<|end|>\n<|assistant|>\n"
-
-    def generate(self, prompt: str):
-        formatted_prompt = self.format_prompt(prompt)
-        result = self.pipe(formatted_prompt, return_full_text=False)[0]["generated_text"]
-        return result.strip()
+        return response["choices"][0]["message"]["content"].strip()
